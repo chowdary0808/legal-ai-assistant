@@ -16,6 +16,15 @@ A production-ready AI-powered legal question answering chatbot built with **Djan
 
 This README gives a complete overview of the project, setup steps, architecture, and usage so that anyone—developer can understand and run the system.
 
+
+##  Summary
+
+The **Legal AI Assistant** is a full-stack RAG-powered chatbot that provides accurate answers to common legal questions.  
+It retrieves relevant information from a curated FAQ dataset using **ChromaDB semantic search**, builds context with embeddings, and generates detailed responses through **Groq's Llama-3.1-70B** model.  
+The backend is built with **Django + REST Framework**, while the frontend uses **React, Vite, and Tailwind** for a modern UI.  
+
+The system includes real-time legal Q&A, source citations, logging of all user queries, and an analytics dashboard—designed to demonstrate end-to-end skills in **full-stack engineering + AI/RAG systems**.
+
 ## Project Overview
 
 This project is a **Legal Question Answering Chatbot** designed for full‑stack evaluation.  
