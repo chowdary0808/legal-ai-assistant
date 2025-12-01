@@ -130,6 +130,20 @@ legal-qa-chatbot/
 
 ---
 
+
+
+
+##  Screenshots
+
+###  Home Screen
+![Home Screen](screenshots/home.png)
+
+###  Chat Interface
+![Chat Interface](screenshots/chat.png)
+
+###  Query Logs & Analytics
+![Query Logs](screenshots/logs.png)
+
 # Installation & Setup
 
 ---
