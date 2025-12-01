@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "question": "What is the statute of limitations for filing a lawsuit?",
+    "answer": "A statute of limitations is a law that sets the maximum time after an event within which legal proceedings may be initiated. The time limit varies depending on the type of case and jurisdiction. For example, personal injury cases typically have a 2-3 year statute of limitations, while breach of contract cases may have 4-6 years. Some cases, like murder, have no statute of limitations. It's crucial to consult with an attorney promptly as missing the deadline can permanently bar your claim, regardless of its merit. The clock usually starts running from the date of injury or when the injury was discovered.",
+    "category": "Civil Law"
+  },
+  {
+    "id": 2,
+    "question": "How do I file for a trademark?",
+    "answer": "To file for a trademark, follow these steps: 1) Search the USPTO database to ensure your mark isn't already registered. 2) Determine the appropriate trademark class for your goods/services. 3) File an application with the United States Patent and Trademark Office (USPTO) either online through TEAS or by mail. 4) Pay the filing fee ($250-$350 per class). 5) Monitor your application status as the USPTO examines it (typically 3-4 months). 6) Respond to any office actions. 7) Once approved, your mark is published for opposition. 8) If no opposition occurs within 30 days, your trademark is registered. The entire process typically takes 8-12 months. Consider hiring a trademark attorney to ensure proper filing and protect your rights.",
+    "category": "Intellectual Property"
+  },
+  {
+    "id": 3,
+    "question": "Am I entitled to overtime pay if I work more than 40 hours per week?",
+    "answer": "Under the Fair Labor Standards Act (FLSA), most employees are entitled to overtime pay at 1.5 times their regular rate for hours worked beyond 40 in a workweek. However, there are important exceptions: 1) Exempt employees (certain executive, administrative, professional, computer, and outside sales employees) are not entitled to overtime. 2) Independent contractors are not covered. 3) Some industries have different rules (e.g., healthcare, hospitality). To qualify as exempt, employees generally must be paid on a salary basis of at least $684 per week and perform specific job duties. Being paid a salary alone doesn't make you exempt. If you believe you're wrongly classified or denied overtime, you may have a wage claim. State laws may provide additional protections beyond federal requirements.",
+    "category": "Employment Law"
+  },
+  {
+    "id": 4,
+    "question": "Can I break my apartment lease early?",
+    "answer": "Breaking a lease early is possible but often comes with consequences. Valid reasons to break a lease without penalty include: 1) Active military duty orders (under SCRA). 2) Uninhabitable conditions the landlord won't fix. 3) Landlord harassment or privacy violations. 4) Domestic violence situations (in many states). 5) Job relocation (if specified in lease). If you don't have a legally valid reason, you may: 1) Owe rent until a new tenant is found (landlords must make reasonable efforts to re-rent). 2) Forfeit your security deposit. 3) Pay early termination fees if specified in the lease. 4) Be responsible for advertising and showing costs. Review your lease's early termination clause, provide proper written notice, document any issues, try to negotiate with your landlord, and consider subletting if allowed. State laws vary significantly on tenant rights.",
+    "category": "Real Estate Law"
+  },
+  {
+    "id": 5,
+    "question": "What should I do immediately after a car accident?",
+    "answer": "After a car accident, follow these critical steps: 1) Check for injuries and call 911 if anyone is hurt. 2) Move to safety if possible and turn on hazard lights. 3) Call the police to file an official report, even for minor accidents. 4) Exchange information with other drivers (name, contact, insurance, license plate, driver's license number). 5) Document the scene with photos/videos (vehicle damage, road conditions, traffic signs, injuries). 6) Collect witness contact information. 7) Do NOT admit fault or apologize (this can be used against you). 8) Notify your insurance company promptly. 9) Seek medical attention even if you feel fine (injuries may appear later). 10) Keep all records (medical bills, repair estimates, police report). 11) Consult with a personal injury attorney before accepting any settlement offers. Remember, insurance companies are not on your side and initial offers are often low.",
+    "category": "Personal Injury"
+  },
+  {
+    "id": 6,
+    "question": "How does filing for bankruptcy affect my credit?",
+    "answer": "Bankruptcy significantly impacts your credit but provides a fresh financial start. Chapter 7 bankruptcy remains on your credit report for 10 years from the filing date, while Chapter 13 stays for 7 years. Your credit score typically drops 130-240 points initially. However, the impact decreases over time, especially if you rebuild credit responsibly. Post-bankruptcy credit building strategies include: 1) Obtain a secured credit card. 2) Become an authorized user on someone's account. 3) Pay all bills on time. 4) Keep credit utilization low. 5) Monitor your credit reports for errors. Many people can qualify for an FHA mortgage 2 years after Chapter 7 or 1 year into Chapter 13 with timely payments. Auto loans may be available immediately, though at higher rates. Bankruptcy stops collection calls, lawsuits, and wage garnishments immediately through the automatic stay. While credit damage is real, being debt-free often improves your financial situation faster than struggling with overwhelming debt.",
+    "category": "Bankruptcy Law"
+  },
+  {
+    "id": 7,
+    "question": "What's the difference between a will and a trust?",
+    "answer": "A will and a trust are both estate planning tools but work differently: WILL: A legal document that takes effect after death, specifies asset distribution, names guardians for minor children, and appoints an executor. Wills go through probate (court supervision), become public record, and can be contested. Simple and inexpensive to create. TRUST: A legal arrangement that can take effect during your lifetime, holds assets managed by a trustee for beneficiaries, avoids probate (saves time and money), remains private, and is harder to contest. Offers more control over distribution timing and conditions. More complex and expensive to establish. Many people use both: a trust for major assets (real estate, investments) and a 'pour-over' will for remaining items. Trusts are particularly useful for: 1) Avoiding probate. 2) Privacy. 3) Controlling asset distribution (e.g., children receive funds at certain ages). 4) Managing assets if you become incapacitated. 5) Minimizing estate taxes for larger estates. Consult an estate planning attorney to determine the best approach for your situation.",
+    "category": "Estate Planning"
+  },
+  {
+    "id": 8,
+    "question": "Can my employer fire me without reason?",
+    "answer": "In most U.S. states, employment is 'at-will,' meaning employers can fire employees at any time for any legal reason or no reason at all, without warning. Similarly, employees can quit anytime. However, important exceptions exist where termination is ILLEGAL: 1) Discrimination based on protected characteristics (race, color, religion, sex, national origin, age 40+, disability, genetic information). 2) Retaliation for protected activities (filing discrimination complaints, whistleblowing, requesting FMLA leave, workers' comp claims). 3) Violation of employment contracts or union agreements. 4) Violation of public policy (e.g., firing for jury duty, refusing illegal acts). 5) Implied contract violations (employee handbooks promising progressive discipline). Montana is the only state that requires 'just cause' for termination after a probationary period. If you believe you were wrongfully terminated, document everything, file for unemployment benefits, request your personnel file, and consult an employment attorney promptly as deadlines for filing complaints are strict (often 180-300 days).",
+    "category": "Employment Law"
+  },
+  {
+    "id": 9,
+    "question": "What constitutes workplace discrimination?",
+    "answer": "Workplace discrimination occurs when an employer treats an employee or job applicant unfavorably because of protected characteristics. Federal law (Title VII, ADA, ADEA) prohibits discrimination based on: 1) Race or color. 2) Religion. 3) Sex (including pregnancy, sexual orientation, gender identity). 4) National origin. 5) Age (40 and older). 6) Disability. 7) Genetic information. Discrimination can take many forms: 1) Hiring/firing decisions. 2) Pay, job assignments, promotions. 3) Layoffs, training, benefits. 4) Harassment creating a hostile work environment. 5) Retaliation for complaints. Examples include: refusing to hire qualified candidates due to religion, paying women less than men for equal work, demoting pregnant employees, firing older workers to hire younger ones, or refusing reasonable accommodations for disabilities. To prove discrimination, you typically need to show: 1) You're in a protected class. 2) You were qualified and performing adequately. 3) You suffered adverse action. 4) Similarly situated people outside your protected class were treated better. File complaints with EEOC within 180 days (300 in some states). State laws may provide additional protections.",
+    "category": "Employment Law"
+  },
+  {
+    "id": 10,
+    "question": "How do I form an LLC for my business?",
+    "answer": "Forming a Limited Liability Company (LLC) protects personal assets from business liabilities. Steps to form an LLC: 1) Choose a unique business name that complies with state rules (usually must include 'LLC' or 'Limited Liability Company'). 2) Appoint a registered agent to receive legal documents. 3) File Articles of Organization with your state (filing fees typically $50-$500). 4) Create an Operating Agreement defining ownership percentages, profit distribution, management structure, and member rights (not always legally required but highly recommended). 5) Obtain an EIN (Employer Identification Number) from the IRS (free). 6) Open a business bank account to maintain separation of personal and business finances. 7) Obtain necessary business licenses and permits. 8) File beneficial ownership information report with FinCEN (required as of 2024). Benefits of an LLC include: limited personal liability, pass-through taxation (no corporate tax), flexible management, and enhanced credibility. Ongoing requirements include annual reports, franchise taxes (varies by state), and maintaining good standing. Consider consulting an attorney or using a formation service to ensure compliance.",
+    "category": "Business Law"
+  },
+  {
+    "id": 11,
+    "question": "What's the difference between a misdemeanor and a felony?",
+    "answer": "Misdemeanors and felonies are two categories of crimes based on severity: MISDEMEANORS: Less serious crimes punishable by up to one year in county jail, fines, probation, or community service. Examples include: petty theft, simple assault, DUI (first offense), disorderly conduct, and trespassing. Divided into classes (A, B, C) with varying penalties. Generally don't result in loss of voting or gun rights. FELONIES: Serious crimes punishable by more than one year in state or federal prison, substantial fines, and long-term probation. Examples include: murder, rape, robbery, burglary, arson, kidnapping, and drug trafficking. Also classified by degrees (1st, 2nd, 3rd) or classes (A, B, C, D, E). Consequences include: loss of voting rights, gun ownership prohibition, difficulty finding employment, professional license restrictions, and housing discrimination. Some states have an intermediate category called 'wobblers' that can be charged as either misdemeanor or felony depending on circumstances and criminal history. Expungement (record sealing) is often easier for misdemeanors. A criminal defense attorney can sometimes negotiate felony charges down to misdemeanors.",
+    "category": "Criminal Law"
+  },
+  {
+    "id": 12,
+    "question": "What makes a contract legally binding?",
+    "answer": "A legally binding contract requires five essential elements: 1) OFFER: One party proposes specific terms. Must be clear, definite, and communicated. 2) ACCEPTANCE: The other party agrees to the exact terms without modifications (which would constitute a counteroffer). 3) CONSIDERATION: Something of value exchanged by both parties (money, services, goods, promises). Both sides must give something. 4) MUTUAL INTENT: Both parties must intend to enter a legal agreement and understand the terms. 5) CAPACITY: Parties must be legally competent (age 18+, sound mind, not intoxicated). 6) LEGALITY: The contract's purpose must be legal. Additional factors: Written vs. Oral - some contracts must be in writing under the Statute of Frauds (real estate, contracts over $500, contracts lasting over one year, marriage agreements). Terms must be definite and certain. Contracts signed under duress, fraud, or misrepresentation are voidable. Minors can disaffirm contracts. While oral contracts can be binding, written contracts are easier to enforce. Always read before signing, as signatures indicate agreement to all terms, even if unread.",
+    "category": "Contract Law"
+  },
+  {
+    "id": 13,
+    "question": "How is child custody determined in divorce cases?",
+    "answer": "Courts determine child custody based on the 'best interests of the child' standard, considering multiple factors: 1) Child's age, gender, and health. 2) Parents' mental and physical health. 3) Parent-child relationship and attachment. 4) Each parent's ability to provide stability, education, and care. 5) Child's adjustment to home, school, and community. 6) Child's preference (if old enough, typically 12+). 7) Any history of domestic violence or substance abuse. 8) Each parent's willingness to support the child's relationship with the other parent. 9) Work schedules and living arrangements. CUSTODY TYPES: Legal custody (decision-making authority for education, healthcare, religion) and Physical custody (where child lives). Can be sole or joint. Courts prefer joint custody arrangements when feasible. VISITATION: Non-custodial parents typically receive parenting time/visitation rights unless harmful to the child. Custody orders can be modified if circumstances substantially change. Mediation is often required before court hearings. Focus on demonstrating you provide a stable, loving environment and prioritize your child's needs. Document your involvement in the child's life. Never badmouth the other parent in front of the child or in court.",
+    "category": "Family Law"
+  },
+  {
+    "id": 14,
+    "question": "What's the difference between copyright, patent, and trademark?",
+    "answer": "These are three distinct types of intellectual property protection: COPYRIGHT: Protects original creative works (books, music, art, software, films). Automatically exists upon creation; registration strengthens rights. Lasts author's life plus 70 years. Prevents unauthorized copying, distribution, display, or performance. Trademark symbol: ©. PATENT: Protects inventions and discoveries (new processes, machines, compositions, designs). Must apply with USPTO; requires novelty, usefulness, and non-obviousness. Utility patents last 20 years from filing; design patents last 15 years. Prevents others from making, using, or selling the invention. Three types: utility, design, and plant patents. Expensive and time-consuming to obtain. TRADEMARK: Protects brand identifiers (names, logos, slogans, sounds, colors) that distinguish goods/services. Established through use in commerce; registration provides stronger protection. Can last indefinitely with continued use and renewal. Prevents consumer confusion. Symbol: ™ (unregistered) or ® (registered). Key differences: Copyright protects expression, patents protect functional innovations, trademarks protect brand identity. You might need all three: patent your invention, trademark your brand name, and copyright your marketing materials. Consult an IP attorney to determine appropriate protection for your creations.",
+    "category": "Intellectual Property"
+  },
+  {
+    "id": 15,
+    "question": "What are my rights if I'm arrested?",
+    "answer": "If arrested, you have important constitutional rights: 1) RIGHT TO REMAIN SILENT (5th Amendment): You don't have to answer questions. Clearly invoke this: 'I'm exercising my right to remain silent.' Anything you say can be used against you. Police may continue talking, but you don't have to respond. 2) RIGHT TO AN ATTORNEY (6th Amendment): Request a lawyer immediately: 'I want a lawyer.' Questioning must stop until your attorney arrives. If you can't afford one, a public defender will be appointed. 3) RIGHT TO KNOW CHARGES: Police must inform you why you're arrested. 4) PROTECTION FROM UNREASONABLE SEARCH (4th Amendment): Police generally need a warrant to search your property (exceptions exist for cars, plain view, exigent circumstances). 5) MIRANDA RIGHTS: Police must read these before custodial interrogation. Other important points: Don't resist arrest (even if unlawful). Don't consent to searches. Be polite but firm in invoking rights. Don't try to explain or negotiate. Contact family/attorney as soon as possible. You'll typically be booked, fingerprinted, and photographed. Bail hearing usually occurs within 48 hours. Remember: exercise your rights immediately and consistently. Police can legally lie to you during interrogations.",
+    "category": "Criminal Law"
+  }
+]
