@@ -19,10 +19,6 @@ from groq import Groq
 # Load environment variables
 load_dotenv()
 
-# ===========================
-# INITIALIZE MODELS & CLIENTS
-# ===========================
-
 # SentenceTransformer for embeddings (384 dimensions, fast, FREE)
 print("Loading SentenceTransformer model...")
 embedding_model = SentenceTransformer('all-MiniLM-L6-v2')
