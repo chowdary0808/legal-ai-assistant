@@ -1,5 +1,17 @@
 # Legal AI Assistant – Full Stack RAG Chatbot
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.8%2B-blue?logo=python&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/Django-4.2-green?logo=django&logoColor=white" />
+  <img src="https://img.shields.io/badge/React-18-blue?logo=react&logoColor=cyan" />
+  <img src="https://img.shields.io/badge/Vite-Build-purple?logo=vite&logoColor=yellow" />
+  <img src="https://img.shields.io/badge/TailwindCSS-3.x-38BDF8?logo=tailwindcss&logoColor=white" />
+  <img src="https://img.shields.io/badge/Groq-LLM-FE3366?logo=groq&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChromaDB-VectorDB-purple" />
+  <img src="https://img.shields.io/badge/SentenceTransformers-Embeddings-orange" />
+  <img src="https://img.shields.io/badge/SQLite-DB-07405E?logo=sqlite&logoColor=white" />
+</p>
+
 A production-ready AI-powered legal question answering chatbot built with **Django (Backend)** + **React (Frontend)** using **Retrieval-Augmented Generation (RAG)**.
 
 This README gives a complete overview of the project, setup steps, architecture, and usage so that anyone—developer can understand and run the system.
